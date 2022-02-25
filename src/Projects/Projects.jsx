@@ -26,11 +26,11 @@ const Projects = () => {
       <a href="https://github.com/Scotty-Cloud/pinkcadillac" target="_blank" rel="noreferrer">Github</a>
       </div>
       <div className="lfgProj">
-      <a href="https://graceland-movies.herokuapp.com/" target="_blank" rel="noreferrer">Graceland</a>
+      <a href="https://lfgpls.herokuapp.com/" target="_blank" rel="noreferrer">LFG</a>
       <br />
-      Just another heart break hotel story
+      Need Friends? Look no further!
       <br />
-      <a href="https://github.com/Scotty-Cloud/pinkcadillac" target="_blank" rel="noreferrer">Github</a>
+      <a href="https://github.com/Scotty-Cloud/lfg" target="_blank" rel="noreferrer">Github</a>
       </div>
     </div>
   )

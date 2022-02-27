@@ -12,7 +12,10 @@ return (
       <br />
       See my qualifications
       <br />
-      {/* <a href="" */}
+      <a href="https://docs.google.com/viewer?url=https://docs.google.com/document/d/1jKmz4RpfS7mjtKyJsSgRxRi-8-6CJD3ylhj_twA3FTk/export?format=pdf" target="_blank" rel="noreferrer"> Resume</a>
+      <br />
+      Send me an email
+      <br />
     </div>
   </div>
 )

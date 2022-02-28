@@ -3,6 +3,7 @@ import './App.css';
 import About from '../About/About';
 import Projects from '../Projects/Projects';
 import Contact from '../Contact/Contact'
+import Footer from '../Footer/Footer'
 
 
 function App() {
@@ -19,6 +20,9 @@ function App() {
       <div>
         <h2 id="contact"> Contact Me</h2>
         <Contact />
+      </div>
+      <div>
+        <Footer />
       </div>
     </div>
   );

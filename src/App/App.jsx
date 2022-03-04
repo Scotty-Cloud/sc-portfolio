@@ -6,11 +6,13 @@ import Projects from '../Projects/Projects';
 import Contact from '../Contact/Contact'
 import Footer from '../Footer/Footer'
 
-
-function App() {
+const App = () => {
+ 
   return (
     <div>
+      <Nav />
       <div>
+      
         <h2 id="about">A little about me :D!! </h2>
         <About />
       </div>

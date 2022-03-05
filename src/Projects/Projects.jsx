@@ -1,5 +1,5 @@
 import React from "react";
-//import "./Projects.css"
+import "./Projects.css"
 
 const Projects = () => {
   return (
@@ -11,7 +11,7 @@ const Projects = () => {
       <br />
       <a href="https://github.com/Scotty-Cloud/Pokemon-Memory-Game" target="_blank" rel="noreferrer">Github</a>
       </div>
-      <div className="HammyProj">
+      <div className="hammyProj">
       <a href="https://wanna-hammy-out.herokuapp.com/" target="_blank" rel="noreferrer">Wanna Hammy Out</a>
       <br />
       Its Hammy Time

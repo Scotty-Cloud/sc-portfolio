@@ -9,10 +9,11 @@ import Footer from '../Footer/Footer'
 const App = () => {
  
   return (
-    <div>
-      <Nav />
-      <div>
+    
       
+      <div>
+      <Nav pageWrapId={"page-wrap"} outerContainerId={"outer-container"} />
+        <div id="page-wrap">
         <h2 id="about">A little about me :D!! </h2>
         <About />
       </div>

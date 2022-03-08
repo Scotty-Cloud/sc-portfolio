@@ -10,3 +10,6 @@ html{
   max-height: 100%;
 }
 
+:root {
+  font-size: 90%;
+}

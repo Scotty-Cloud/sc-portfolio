@@ -44,6 +44,7 @@ Note: Beware of modifying this element as it can break the animations - you shou
   opacity: 0.5;
   padding: 36px 16px 0;
   font-size: 16px;
+  
 }
 
 /* Morph shape necessary with bubble or elastic */
@@ -55,6 +56,7 @@ Note: Beware of modifying this element as it can break the animations - you shou
 .bm-item-list {
   color: #5c65eb;
   padding: 13px;
+  
 }
 
 /* Individual item */
@@ -71,14 +73,15 @@ Note: Beware of modifying this element as it can break the animations - you shou
 /* Individual item */
 .bm-item {
   display: inline-block;
-
   color: #d1d1d1;
   margin-bottom: 10px;
-  text-align: left;
+  text-align: center;
   text-decoration: none;
   transition: color 0.2s;
+ 
 }
 
 .menu-item:hover {
   color: red;
+ 
 }

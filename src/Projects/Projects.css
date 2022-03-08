@@ -7,7 +7,6 @@
     margin: 30px;
     padding-top: 30px;
     padding-bottom: 30px;
-   
 }
 
 .pokemonProj {
@@ -15,13 +14,33 @@
     padding: 15px;
     margin: 25px;
     margin-right: 50px;
+    border: 5px solid;
+    border-color: bisque;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background: rgba(70, 87, 94, 0.8);
+    box-shadow: 
+    inset 20px 0 60px rgb(99, 139, 126),
+    -5px 0px 10px 5px rgb(99, 139, 126)
+
 }
 
 .hammyProj {
     align-content: flex-start;
+    text-align: right;
     padding: 15px;
     margin: 25px;
     margin-right: 50px;
+    border: 5px solid;
+    border-color: bisque;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background: rgba(70, 87, 94, 0.8); 
+    box-shadow: 
+    inset 20px 0 60px rgb(16, 19, 65),
+    -5px 0px 10px 5px rgb(16, 19, 65); 
+    
+
 }
 
 .elvisProj {
@@ -29,12 +48,31 @@
     padding: 15px;
     margin: 25px;
     margin-right: 50px;
-
+    border: 5px solid;
+    border-color: bisque;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background: rgba(70, 87, 94, 0.8);
+    /* box-shadow: 
+    inset 20px 0 60px rgb(16, 19, 65),
+    -5px 0px 10px 5px rgb(16, 19, 65); */
+    box-shadow: 
+    inset 20px 0 60px rgb(99, 139, 126),
+    -5px 0px 10px 5px rgb(99, 139, 126)
 }
 
 .lfgProj {
     align-content: flex-start;
+    text-align: right;
     padding: 15px;
     margin: 25px;
     margin-right: 50px;
+    border: 5px solid;
+    border-color: bisque;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background: rgba(70, 87, 94, 0.8);
+    box-shadow: 
+    inset 20px 0 60px rgb(16, 19, 65),
+    -5px 0px 10px 5px rgb(16, 19, 65);
 }

@@ -18,7 +18,10 @@
             animation: fadein 2s;
 }
 
-
+.about-bg{
+    background: #EEE7E1;
+  }
+  
 
 @keyframes fadein {
     from { opacity: 0; }

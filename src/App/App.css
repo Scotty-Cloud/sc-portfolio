@@ -1,44 +1,26 @@
-html {
-  box-sizing: border-box;
+html,body {
   height: 100%;
 }
 
-#page-wrap {
-  padding-bottom: 10px;
-  padding-top: 10px;
-}
-
-*, 
-*::before,
-*::after { 
-
-  box-sizing: inherit;
-}
-
-:root {
-  font-size: 90%
-}
-
-
-body {
- 
-  background: #EEE7E1 ;
+main-bg {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
+  scroll-behavior: smooth;
   height: 100%; 
   width: 100%;
-   
-  
-} 
+  color: white;
+  text-align: center;
+  display: table;
+}
 
-
-
-
+/* .about-bg{
+  background: #EEE7E1;
+} */
 
 /* #1A1919
    #b1a192
-
+   #EEE7E1
 
  */
